@@ -1,2 +1,2 @@
 # shiftakademi
-Shift Academy Software School Web Site Project
+Shift Academy Coding School Web Site Project
